@@ -20,3 +20,5 @@
     * And this: https://github.com/Chernobilsky/Mishka-project
 
   * And plenty of GPT-4 assistance: https://github.com/anhinga/with-GPT-4 
+
+### there are a lot of directions to revisit, revise, and further explore
